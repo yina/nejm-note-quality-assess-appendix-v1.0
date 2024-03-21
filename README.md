@@ -2,7 +2,7 @@
 NEJM Appendix for journal paper titled Scaling Note Quality Assessment Across an Academic Medical Center with AI and GPT-4 
 
 # Data Page
-The main data page is at [<nyu data catalog link>](https://datacatalog.med.nyu.edu/dataset/10687).
+The main data page is at [NYU Langone data catalog](https://datacatalog.med.nyu.edu/dataset/10687).
 
 # Publication
 The original publication is at <NEJM>.
