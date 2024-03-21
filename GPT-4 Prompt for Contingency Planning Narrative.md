@@ -1,4 +1,5 @@
 # GPT-4 Prompt for Contingency Planning Narrative Feedback
+# (c) 2024 NYU Langone Health. All rights reserved. For commercial use please contact TOV at https://tov.med.nyu.edu
 
 ## SYSTEM MESSAGE:
 
