@@ -19,16 +19,16 @@ Final return output must be a list in the format: [class_label, prediction_proba
 """ 
 
 ## Settings
-GPT-4 API Call openai.api_type = "azure" 
-openai.api_version = "2023-03-15-preview" 
+GPT-4 API Call openai.api_type = "azure"
+openai.api_version = "2023-03-15-preview"
 response = openai.ChatCompletion.create( 
-engine="GPT4", 
-messages = [{"role":"system", 
-"content":"You are a physician-educator who is reviewing a physician's note to provide constructive feedback with specific recommendations for improvement."}, {"role":"user","content":complete_prompt}], 
-temperature=1, 
-max_tokens=inf, 
-top_p=1, 
-frequency_penalty=0, 
-presence_penalty=0, 
-stop=None) 
+  engine="GPT4", 
+  messages = [{"role":"system", 
+  "content":"You are a physician-educator who is reviewing a physician's note to provide constructive feedback with specific recommendations for improvement."}, {"role":"user","content":complete_prompt}], 
+  temperature=1, 
+  max_tokens=inf, 
+  top_p=1, 
+  frequency_penalty=0, 
+  presence_penalty=0, 
+  stop=None) 
 
