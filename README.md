@@ -20,4 +20,4 @@ IN NO EVENT SHALL NYU, OR THEIR EMPLOYEES, OFFICERS, AGENTS OR TRUSTEES ("COLLEC
 NYU SPECIFICALLY DISCLAIMS ANY WARRANTIES OF ANY KIND REGARDING THE PROMPT, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, THE IMPLIED WARRANTIES OF  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, OR THE ACCURACY OR USEFULNESS, OR COMPLETENESS OF THE PROMPT. THE PROMPT AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED COMPLETELY "AS IS". NYU HAS NO OBLIGATION TO PROVIDE FURTHER DOCUMENTATION, MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
 # Updated versions
-Updated versions of this prompt have been subject to additional modifications for outliers and additional testing. This version is available through our licensing site at https://license.tov.med.nyu.edu/.
+Updated versions of this prompt with improved performance are available through our licensing site at https://license.tov.med.nyu.edu/.
